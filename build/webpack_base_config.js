@@ -33,7 +33,6 @@ module.exports = {
                             "configFileName": path.join(__dirname, "..", "tsconfig.json")
                         }
                     },
-                    "angular-router-loader",
                     "angular2-template-loader"
                 ]
             },

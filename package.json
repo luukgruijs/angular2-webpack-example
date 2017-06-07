@@ -7,7 +7,6 @@
     "prod": "node build/build.js"
   },
   "devDependencies": {
-    "angular-router-loader": "0.6.0",
     "angular2-template-loader": "0.6.2",
     "awesome-typescript-loader": "3.1.2",
     "compression-webpack-plugin": "0.4.0",
